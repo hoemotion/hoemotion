@@ -1,7 +1,3 @@
-
-
-  <img align="left" alt="hoemotion's GitHub Stats" src="https://github-readme-stats.hoemotion.vercel.app/api?username=hoemotion&show_icons=true&hide_border=true" />
-
 </details>
 
 [twitter]: https://twitter.com/hoemotion77
