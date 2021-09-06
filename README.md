@@ -1,4 +1,4 @@
-### Hi there, I'm Karma - aka [hoemotion][website] 👋
+### Hi there, I'm Karma - aka hoemotion👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/hoemotion77?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhoemotion77&screen_name=hoemotion77)
 
@@ -7,7 +7,7 @@
 [<img align="left" alt="hoemotion | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="hoemotion77 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="karma.meme | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="karma.meme#8811 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />]
+[<img align="left" alt="karma.meme#8811 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 <br />
 
@@ -27,3 +27,4 @@
 [twitter]: https://twitter.com/hoemotion77
 [youtube]: https://www.youtube.com/channel/UC88jPrHVvHWec7hOC7tep7A
 [instagram]: https://instagram.com/karma.meme
+[discord]: https://discord.gg/TZdj5BFnRV
