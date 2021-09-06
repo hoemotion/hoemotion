@@ -1,22 +1,3 @@
-### Hi there, I'm Karma - aka hoemotion👋
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/hoemotion77?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhoemotion77&screen_name=hoemotion77)
-
-### Connect with me:
-
-[<img align="left" alt="hoemotion | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="hoemotion77 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="karma.meme | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="karma.meme#8811 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
-
-<br />
-
-
-
-
----
-
-
 <details>
   <summary>:zap: GitHub Stats</summary>
 
@@ -31,8 +12,7 @@
 
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subham</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Karma aka hoemotion</h1>
 
 
 ## 🚀 Languages and Tools:
@@ -75,6 +55,7 @@
 <a href = "https://twitter.com/hoemotion77"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/karma.meme/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UC88jPrHVvHWec7hOC7tep7A"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "https://discord.gg/TZdj5BFnRV"><img src="https://img.icons8.com/color/48/000000/discord.png"/></a>
 
 </p>
 
