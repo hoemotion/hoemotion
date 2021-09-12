@@ -51,7 +51,7 @@
 <a href = "https://twitter.com/hoemotion77"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/karma.meme/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UC88jPrHVvHWec7hOC7tep7A"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
-<a href = "https://discord.gg/TZdj5BFnRV"><img src="https://img.icons8.com/color/48/000000/discord.png"/></a>
+<a href = "https://discord.gg/mARrnX9"><img src="https://img.icons8.com/color/48/000000/discord.png"/></a>
 
 </p>
 
