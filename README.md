@@ -4,9 +4,9 @@
 [twitter]: https://twitter.com/hoemotion77
 [youtube]: https://www.youtube.com/channel/UC88jPrHVvHWec7hOC7tep7A
 [instagram]: https://instagram.com/karma.meme
-[discord]: https://discord.gg/TZdj5BFnRV
+[discord]: https://discord.gg/verQuxaBqy
 
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<p align='center'><a href="#"><img height=auto width=auto src="https://discord.c99.nl/widget/theme-1/819195418763591731.png" height="1000px"/></a></p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Karma aka hoemotion</h1>
 
