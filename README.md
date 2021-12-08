@@ -7,6 +7,7 @@
 [discord]: https://discord.gg/verQuxaBqy
 
 <p align='center'><a href="#"><img height=auto width=auto src="https://discord.c99.nl/widget/theme-1/819195418763591731.png" height="1000px"/></a></p>
+Account is termed, rip
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Karma aka hoemotion</h1>
 
