@@ -1,7 +1,3 @@
-# Making a break
-* I currently have a lot to study for school and that's why I take a break for a while.
-> *See ya* 😄
-
 </details>
 <p align='center'><a href="#"><img height=auto width=auto src="https://discord.c99.nl/widget/theme-1/819195418763591731.png" height="1000px"/></a></p>
 <p align= 'center'>Account is termed, rip<br>Support on Discord is no longer available get Guilded if you need help</p>
