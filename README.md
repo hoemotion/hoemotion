@@ -1,6 +1,6 @@
 </details>
 <p align='center'><a href="#"><img height=auto width=auto src="https://discord.c99.nl/widget/theme-1/819195418763591731.png" height="1000px"/></a></p>
-<p align= 'center'>Account is termed, rip<br>Support on Discord is no longer available get Guilded if you need help</p>
+<p align= 'center'>Account is termed, rip<br>Support on Discord is no longer available get Telegram if you need help</p>
 
 <h1 align="center">Hi, I'm Karma aka hoemotion</h1>
 
@@ -44,6 +44,7 @@
 ## Connect with me:
 <p align="left">
 
+<a href = "https://t.me/hoemotion"><img src="https://img.icons8.com/color/48/000000/telegram-app--v5.png"/></a>
 <a href = "https://twitter.com/hoemotion77"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/karma.meme/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UC88jPrHVvHWec7hOC7tep7A"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
