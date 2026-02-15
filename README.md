@@ -16,8 +16,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/hoemotion/github-readme-stats"><img alt="hoemotion's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hoemotion&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/hoemotion/github-readme-stats"><img alt="hoemotion's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoemotion&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <img alt="hoemotion's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hoemotion&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  <img alt="hoemotion's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoemotion&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   <br/>
 
 
@@ -34,6 +34,7 @@
 
 <a href = "https://t.me/ahegahoe"><img src="https://img.icons8.com/color/48/000000/telegram-app--v5.png"/></a>
 <a href = "https://threema.id/TRYYWE2X"><img src="https://img.icons8.com/?size=48&id=74559&format=png&color=000000"/></a>
+<a href="https://stoat.chat/invite/fKzse8yy"><img src="https://files.catbox.moe/kzbgbe.png" height="48px"/></a>
 <a href = "https://www.instagram.com/cristiano/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://guilded.gg/karma"><img src="https://img.icons8.com/fluency/48/000000/guilded.png"/></a>
 
