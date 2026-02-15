@@ -1,3 +1,9 @@
+<p align='center'><a href="https://github.com/hoemotion"> <img src="https://github-widgetbox.vercel.app/api/profile?username=hoemotion&data=followers,repositories,stars,commits&theme=metropolis"/> </a></p>
+<p align="center">
+    <a href="https://github.com/hoemotion/">
+        <img alt="hoemotion's streak" src="https://streak-stats.demolab.com/?user=hoemotion&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+</p>
 </details>
 <p align='center'><a href="#"><img height=auto width=auto src="https://discord.c99.nl/widget/theme-1/819195418763591731.png" height="1000px"/></a></p>
 <p align= 'center'>Account is termed, rip<br>Support on Discord is no longer available get Telegram if you need help</p>
@@ -5,11 +11,6 @@
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=5BCDEC&center=true&size=26&lines=Hi+there,+I+am+hoemotion;Check+out+NyanTV;Rip+guilded.gg+:(;"/>
-</p>
-<p align="center">
-    <a href="https://github.com/hoemotion/">
-        <img alt="hoemotion's streak" src="https://streak-stats.demolab.com/?user=hoemotion&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
 </p>
 
 ## 📊 My Github Stats
