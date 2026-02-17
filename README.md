@@ -33,7 +33,7 @@
 <p align="left">
 
 <a href = "https://t.me/ahegahoe"><img src="https://img.icons8.com/color/48/000000/telegram-app--v5.png"/></a>
-<a href = "https://threema.id/TRYYWE2X"><img src="https://img.icons8.com/?size=48&id=74559&format=png&color=000000"/></a>
+<a href = "https://threema.id/TRYYWE2X"><img src="https://img.icons8.com/?size=48&id=74559&format=png&color=00B858"/></a>
 <a href="https://stoat.chat/invite/fKzse8yy"><img src="https://files.catbox.moe/kzbgbe.png" height="48px"/></a>
 <a href = "https://www.instagram.com/cristiano/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://guilded.gg/karma"><img src="https://img.icons8.com/fluency/48/000000/guilded.png"/></a>
